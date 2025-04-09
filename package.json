@@ -1,6 +1,6 @@
 {
 	"name": "table-of-content",
-	"version": "1.0.2",
+	"version": "1.0.6",
 	"description": "Table of Contents Generator is a JavaScript package that creates a floating table of contents (TOC) button and panel for web pages.",
 	"main": "index.js",
 	"scripts": {

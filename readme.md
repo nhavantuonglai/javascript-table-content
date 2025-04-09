@@ -87,13 +87,13 @@ Không yêu cầu thêm thư viện phụ thuộc ngoài trình duyệt hiện �
 Ví dụ sử dụng trong HTML:
 
 ```
-<script src="node_modules/toc-generator/index.js"></script>
+<script src="node_modules/table-of-content/index.js"></script>
 ```
 
 Ví dụ sử dụng trong JavaScript:
 
 ```
-const { initTableOfContents } = require('toc-generator');
+const { initTableOfContents } = require('table-of-content');
 initTableOfContents();
 toc.destroy();
 ```
