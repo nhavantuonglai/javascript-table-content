@@ -2,7 +2,7 @@
 
 (Original Vietnamese below)
 
-_Table of Contents Generator is a JavaScript package that creates a floating table of contents (TOC) button and panel for web pages. It automatically detects headings (h2, h3, h4) and generates a clickable TOC, enhancing navigation for long content._
+_Table of Contents Generator is a JavaScript package that creates a floating table of contents (TOC) button and panel for web pages. It automatically detects headings (H2, H3, H4) and generates a clickable TOC, enhancing navigation for long content._
 
 ## Installation Guide
 

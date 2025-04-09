@@ -1,7 +1,7 @@
 {
-	"name": "javascript-table-content",
+	"name": "table-of-content",
 	"version": "1.0.2",
-	"description": "File and folder renamer (FFR) is a Python tool designed to automate the renaming of files and folders. It supports multiple renaming options, including date-based formats, size based formats, sequential numbering, adding custom characters, and random names.",
+	"description": "Table of Contents Generator is a JavaScript package that creates a floating table of contents (TOC) button and panel for web pages.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
